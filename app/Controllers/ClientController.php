@@ -1,9 +1,9 @@
 <?php
 /**
- * Dashboard Controller
- * Handles dashboard and main statistics
+ * Client Controller
+ * Handles client management operations
  */
-class DashboardController {
+class ClientController {
     
     private $db;
     
@@ -12,121 +12,248 @@ class DashboardController {
     }
     
     /**
-     * Show dashboard with statistics
+     * Show all clients with pagination
      */
     public function index() {
         try {
-            // Get statistics
-            $stats = $this->getStatistics();
+            $page = (int)($_GET['page'] ?? 1);
+            $perPage = (int)($_ENV['ITEMS_PER_PAGE'] ?? 12);
+            $offset = ($page - 1) * $perPage;
             
-            // Prepare view data
+            // Get total count
+            $stmt = $this->db->prepare("SELECT COUNT(*) as total FROM clients WHERE deleted_at IS NULL");
+            $stmt->execute();
+            $totalClients = $stmt->fetch(PDO::FETCH_ASSOC)['total'];
+            
+            // Get clients for current page
+            $stmt = $this->db->prepare("
+                SELECT * FROM clients 
+                WHERE deleted_at IS NULL 
+                ORDER BY name ASC 
+                LIMIT ? OFFSET ?
+            ");
+            $stmt->execute([$perPage, $offset]);
+            $clients = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            
+            // Calculate pagination
+            $totalPages = ceil($totalClients / $perPage);
+            $pagination = [
+                'current_page' => $page,
+                'total_pages' => $totalPages,
+                'total' => $totalClients,
+                'per_page' => $perPage,
+                'has_prev' => $page > 1,
+                'has_next' => $page < $totalPages,
+                'from' => $offset + 1,
+                'to' => min($offset + $perPage, $totalClients)
+            ];
+            
             $data = [
-                'title' => 'Tableau de Bord',
-                'currentRoute' => 'dashboard',
-                'stats' => $stats,
+                'title' => 'Gestion Clients',
+                'currentRoute' => 'clients',
+                'clients' => $clients,
+                'pagination' => $pagination,
                 'csrf_token' => CSRFMiddleware::generateToken(),
                 'flash' => Session::getFlash()
             ];
             
-            // Render view
-            $this->render('dashboard/index', $data);
+            $this->render('clients/index', $data);
             
         } catch (Exception $e) {
-            Session::setFlash('error', 'Erreur lors du chargement du tableau de bord.');
-            header('Location: /');
+            Session::setFlash('error', 'Erreur lors du chargement des clients.');
+            header('Location: /dashboard');
             exit;
         }
     }
     
     /**
-     * Get dashboard statistics
+     * Show single client
      */
-    private function getStatistics() {
+    public function show($clientId) {
+        try {
+            $stmt = $this->db->prepare("SELECT * FROM clients WHERE id = ? AND deleted_at IS NULL");
+            $stmt->execute([$clientId]);
+            $client = $stmt->fetch(PDO::FETCH_ASSOC);
+            
+            if (!$client) {
+                http_response_code(404);
+                require_once APP_PATH . '/Views/errors/404.php';
+                return;
+            }
+            
+            // Get client statistics
+            $stats = $this->getClientStats($clientId);
+            
+            $data = [
+                'title' => 'Client - ' . $client['name'],
+                'currentRoute' => 'clients/' . $clientId,
+                'client' => $client,
+                'currentClient' => $client,
+                'stats' => $stats,
+                'csrf_token' => CSRFMiddleware::generateToken(),
+                'flash' => Session::getFlash()
+            ];
+            
+            $this->render('clients/show', $data);
+            
+        } catch (Exception $e) {
+            Session::setFlash('error', 'Erreur lors du chargement du client.');
+            header('Location: /clients');
+            exit;
+        }
+    }
+    
+    /**
+     * Show client months
+     */
+    public function showMonths($clientId) {
+        try {
+            $stmt = $this->db->prepare("SELECT * FROM clients WHERE id = ? AND deleted_at IS NULL");
+            $stmt->execute([$clientId]);
+            $client = $stmt->fetch(PDO::FETCH_ASSOC);
+            
+            if (!$client) {
+                http_response_code(404);
+                require_once APP_PATH . '/Views/errors/404.php';
+                return;
+            }
+            
+            // Get months with transactions
+            $stmt = $this->db->prepare("
+                SELECT 
+                    DATE_FORMAT(date, '%Y-%m') as month_year,
+                    SUM(CASE WHEN type = 'invoice' THEN amount ELSE 0 END) as total_invoices,
+                    SUM(CASE WHEN type = 'return' THEN amount ELSE 0 END) as total_returns,
+                    COUNT(CASE WHEN type = 'invoice' THEN 1 END) as invoice_count,
+                    COUNT(CASE WHEN type = 'return' THEN 1 END) as return_count
+                FROM transactions 
+                WHERE client_id = ? AND deleted_at IS NULL
+                GROUP BY DATE_FORMAT(date, '%Y-%m')
+                ORDER BY month_year DESC
+            ");
+            $stmt->execute([$clientId]);
+            $months = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            
+            // Get discounts for each month
+            $monthsWithDiscounts = [];
+            foreach ($months as $month) {
+                $stmt = $this->db->prepare("
+                    SELECT discount_percent 
+                    FROM client_discounts 
+                    WHERE client_id = ? AND month_year = ?
+                ");
+                $stmt->execute([$clientId, $month['month_year']]);
+                $discount = $stmt->fetch(PDO::FETCH_ASSOC);
+                
+                $month['discount_percent'] = $discount['discount_percent'] ?? 0;
+                $subtotal = $month['total_invoices'] - $month['total_returns'];
+                $discountAmount = $subtotal * ($month['discount_percent'] / 100);
+                $month['final_total'] = $subtotal - $discountAmount;
+                
+                $monthsWithDiscounts[] = $month;
+            }
+            
+            $data = [
+                'title' => 'Mois d\'Activité - ' . $client['name'],
+                'currentRoute' => 'clients/' . $clientId . '/months',
+                'client' => $client,
+                'currentClient' => $client,
+                'months' => $monthsWithDiscounts,
+                'csrf_token' => CSRFMiddleware::generateToken(),
+                'flash' => Session::getFlash()
+            ];
+            
+            $this->render('clients/months', $data);
+            
+        } catch (Exception $e) {
+            Session::setFlash('error', 'Erreur lors du chargement des mois.');
+            header('Location: /clients/' . $clientId);
+            exit;
+        }
+    }
+    
+    /**
+     * Store new client
+     */
+    public function store() {
+        try {
+            // Validate input
+            $validator = new Validator();
+            $rules = [
+                'name' => 'required|string|max:255',
+                'address' => 'required|string|max:500',
+                'phone' => 'required|phone',
+                'email' => 'email'
+            ];
+            
+            $validation = $validator->validate($_POST, $rules);
+            if (!$validation['valid']) {
+                Session::setFlashBag(['error' => $validation['errors']]);
+                header('Location: /clients');
+                exit;
+            }
+            
+            // Check for duplicate name
+            $stmt = $this->db->prepare("SELECT id FROM clients WHERE name = ? AND deleted_at IS NULL");
+            $stmt->execute([Security::sanitizeString($_POST['name'])]);
+            if ($stmt->fetch()) {
+                Session::setFlash('error', 'Un client avec ce nom existe déjà.');
+                header('Location: /clients');
+                exit;
+            }
+            
+            // Insert client
+            $stmt = $this->db->prepare("
+                INSERT INTO clients (name, address, phone, email, created_at) 
+                VALUES (?, ?, ?, ?, NOW())
+            ");
+            $stmt->execute([
+                Security::sanitizeString($_POST['name']),
+                Security::sanitizeString($_POST['address']),
+                Security::sanitizeString($_POST['phone']),
+                Security::sanitizeString($_POST['email'] ?? null)
+            ]);
+            
+            Session::setFlash('success', 'Client ajouté avec succès.');
+            header('Location: /clients');
+            exit;
+            
+        } catch (Exception $e) {
+            Session::setFlash('error', 'Erreur lors de l\'ajout du client.');
+            header('Location: /clients');
+            exit;
+        }
+    }
+    
+    /**
+     * Get client statistics
+     */
+    private function getClientStats($clientId) {
         $stats = [];
         
         try {
-            // Total clients
-            $stmt = $this->db->prepare("SELECT COUNT(*) as total FROM clients WHERE deleted_at IS NULL");
-            $stmt->execute();
-            $stats['total_clients'] = $stmt->fetch(PDO::FETCH_ASSOC)['total'];
-            
-            // Current month revenue
-            $currentMonth = date('Y-m');
+            // Total transactions
             $stmt = $this->db->prepare("
                 SELECT 
-                    COALESCE(SUM(amount), 0) as total_invoices,
-                    COUNT(*) as invoice_count
+                    SUM(CASE WHEN type = 'invoice' THEN amount ELSE 0 END) as total_invoices,
+                    SUM(CASE WHEN type = 'return' THEN amount ELSE 0 END) as total_returns,
+                    COUNT(CASE WHEN type = 'invoice' THEN 1 END) as invoice_count,
+                    COUNT(CASE WHEN type = 'return' THEN 1 END) as return_count
                 FROM transactions 
-                WHERE type = 'invoice' 
-                AND DATE_FORMAT(date, '%Y-%m') = ?
-                AND deleted_at IS NULL
+                WHERE client_id = ? AND deleted_at IS NULL
             ");
-            $stmt->execute([$currentMonth]);
-            $invoiceData = $stmt->fetch(PDO::FETCH_ASSOC);
+            $stmt->execute([$clientId]);
+            $stats = $stmt->fetch(PDO::FETCH_ASSOC);
             
-            $stmt = $this->db->prepare("
-                SELECT COALESCE(SUM(amount), 0) as total_returns
-                FROM transactions 
-                WHERE type = 'return' 
-                AND DATE_FORMAT(date, '%Y-%m') = ?
-                AND deleted_at IS NULL
-            ");
-            $stmt->execute([$currentMonth]);
-            $returnData = $stmt->fetch(PDO::FETCH_ASSOC);
-            
-            $stats['current_month'] = [
-                'revenue' => $invoiceData['total_invoices'] - $returnData['total_returns'],
-                'invoices' => $invoiceData['total_invoices'],
-                'returns' => $returnData['total_returns'],
-                'invoice_count' => $invoiceData['invoice_count']
-            ];
-            
-            // Recent clients
-            $stmt = $this->db->prepare("
-                SELECT id, name, created_at 
-                FROM clients 
-                WHERE deleted_at IS NULL 
-                ORDER BY created_at DESC 
-                LIMIT 5
-            ");
-            $stmt->execute();
-            $stats['recent_clients'] = $stmt->fetchAll(PDO::FETCH_ASSOC);
-            
-            // Recent transactions
-            $stmt = $this->db->prepare("
-                SELECT t.*, c.name as client_name 
-                FROM transactions t 
-                JOIN clients c ON t.client_id = c.id 
-                WHERE t.deleted_at IS NULL 
-                ORDER BY t.date DESC 
-                LIMIT 10
-            ");
-            $stmt->execute();
-            $stats['recent_transactions'] = $stmt->fetchAll(PDO::FETCH_ASSOC);
-            
-            // Monthly trends (last 6 months)
-            $stmt = $this->db->prepare("
-                SELECT 
-                    DATE_FORMAT(date, '%Y-%m') as month,
-                    SUM(CASE WHEN type = 'invoice' THEN amount ELSE 0 END) as invoices,
-                    SUM(CASE WHEN type = 'return' THEN amount ELSE 0 END) as returns
-                FROM transactions 
-                WHERE date >= DATE_SUB(NOW(), INTERVAL 6 MONTH)
-                AND deleted_at IS NULL
-                GROUP BY DATE_FORMAT(date, '%Y-%m')
-                ORDER BY month DESC
-            ");
-            $stmt->execute();
-            $stats['monthly_trends'] = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            $stats['net_total'] = $stats['total_invoices'] - $stats['total_returns'];
             
         } catch (Exception $e) {
-            // Return default stats on error
             $stats = [
-                'total_clients' => 0,
-                'current_month' => ['revenue' => 0, 'invoices' => 0, 'returns' => 0, 'invoice_count' => 0],
-                'recent_clients' => [],
-                'recent_transactions' => [],
-                'monthly_trends' => []
+                'total_invoices' => 0,
+                'total_returns' => 0,
+                'invoice_count' => 0,
+                'return_count' => 0,
+                'net_total' => 0
             ];
         }
         
@@ -137,13 +264,9 @@ class DashboardController {
      * Render view with layout
      */
     private function render($view, $data = []) {
-        // Extract data for view
         extract($data);
-        
-        // Start output buffering
         ob_start();
         
-        // Include the view file
         $viewFile = APP_PATH . '/Views/' . str_replace('.', '/', $view) . '.php';
         if (file_exists($viewFile)) {
             include $viewFile;
@@ -151,10 +274,7 @@ class DashboardController {
             throw new Exception("View file not found: {$view}");
         }
         
-        // Get view content
         $content = ob_get_clean();
-        
-        // Include layout
         include APP_PATH . '/Views/layouts/app.php';
     }
 }
