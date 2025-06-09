@@ -1,0 +1,28 @@
+# ===========================================
+# BIENETRE PHARMA - ROOT HTACCESS (LITESPEED)
+# Place this in /home/bienetre/public_html/etat/.htaccess
+# ===========================================
+
+RewriteEngine On
+
+# Set base for subdirectory
+RewriteBase /etat/
+
+# Redirect all requests to public directory
+RewriteCond %{REQUEST_URI} !^/etat/public/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ public/$1 [L]
+
+# Security - Block access to application directories
+RewriteRule ^app/ - [F,L]
+RewriteRule ^storage/ - [F,L]
+
+# Block sensitive files
+<Files ".env">
+    Require all denied
+</Files>
+
+<Files "*.log">
+    Require all denied
+</Files>
