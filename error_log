@@ -1,0 +1,125 @@
+[09-Jun-2025 19:52:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.clients' doesn't exist in /home/bienetre/public_html/etat/index.php:46
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(46): PDO->query('SELECT * FROM c...')
+#1 /home/bienetre/public_html/etat/index.php(192): ClientManager->getAllClients()
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 46
+[09-Jun-2025 19:52:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.clients' doesn't exist in /home/bienetre/public_html/etat/index.php:46
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(46): PDO->query('SELECT * FROM c...')
+#1 /home/bienetre/public_html/etat/index.php(192): ClientManager->getAllClients()
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 46
+[09-Jun-2025 19:52:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.clients' doesn't exist in /home/bienetre/public_html/etat/index.php:46
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(46): PDO->query('SELECT * FROM c...')
+#1 /home/bienetre/public_html/etat/index.php(192): ClientManager->getAllClients()
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 46
+[09-Jun-2025 19:54:16 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:54:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:56:09 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:56:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:56:54 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:56:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:57:45 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:57:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:58:19 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 19:58:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 498
+[09-Jun-2025 20:10:54 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 526
+[09-Jun-2025 20:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 526
+[09-Jun-2025 20:11:02 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 526
+[09-Jun-2025 20:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 526
+[09-Jun-2025 20:14:39 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 825
+[09-Jun-2025 20:14:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 825
+[09-Jun-2025 20:17:06 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 889
+[09-Jun-2025 20:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 889
+[09-Jun-2025 20:18:48 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 894
+[09-Jun-2025 20:18:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 894
+[09-Jun-2025 20:19:19 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:19:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:21:43 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:21:47 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:21:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:22:13 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:22:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 893
+[09-Jun-2025 20:33:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.month_discounts' doesn't exist in /home/bienetre/public_html/etat/index.php:137
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(137): PDOStatement->execute(Array)
+#1 /home/bienetre/public_html/etat/index.php(241): TransactionManager->getClientMonthDiscount('3', '2025-04')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 137
+[09-Jun-2025 20:33:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.month_discounts' doesn't exist in /home/bienetre/public_html/etat/index.php:137
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(137): PDOStatement->execute(Array)
+#1 /home/bienetre/public_html/etat/index.php(241): TransactionManager->getClientMonthDiscount('3', '2025-04')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 137
+[09-Jun-2025 20:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.month_discounts' doesn't exist in /home/bienetre/public_html/etat/index.php:137
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(137): PDOStatement->execute(Array)
+#1 /home/bienetre/public_html/etat/index.php(241): TransactionManager->getClientMonthDiscount('3', '2025-04')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 137
+[09-Jun-2025 20:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.month_discounts' doesn't exist in /home/bienetre/public_html/etat/index.php:137
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(137): PDOStatement->execute(Array)
+#1 /home/bienetre/public_html/etat/index.php(241): TransactionManager->getClientMonthDiscount('3', '2025-04')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 137
+[09-Jun-2025 20:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bienetre_pharma.month_discounts' doesn't exist in /home/bienetre/public_html/etat/index.php:137
+Stack trace:
+#0 /home/bienetre/public_html/etat/index.php(137): PDOStatement->execute(Array)
+#1 /home/bienetre/public_html/etat/index.php(241): TransactionManager->getClientMonthDiscount('3', '2025-04')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat/index.php on line 137
+[09-Jun-2025 20:38:18 UTC] PHP Notice:  Undefined variable: client_info in /home/bienetre/public_html/etat/index.php on line 1030
+[09-Jun-2025 20:38:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bienetre/public_html/etat/index.php on line 1030
+[09-Jun-2025 20:38:21 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1009
+[09-Jun-2025 20:38:21 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1011
+[09-Jun-2025 20:42:53 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1465
+[09-Jun-2025 20:42:53 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1467
+[09-Jun-2025 20:42:57 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1465
+[09-Jun-2025 20:42:57 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1467
+[09-Jun-2025 20:43:07 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1465
+[09-Jun-2025 20:43:07 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1467
+[09-Jun-2025 20:45:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:45:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:46:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:49:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:49:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:49:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:49:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:53:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:53:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:53:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:53:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:58:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 20:58:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 21:00:05 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1588
+[09-Jun-2025 21:00:05 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1590
+[09-Jun-2025 21:00:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 21:01:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 21:01:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1996
+[09-Jun-2025 21:01:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1995
+[09-Jun-2025 21:01:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1995
+[09-Jun-2025 21:01:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1995
+[09-Jun-2025 21:01:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1995
+[09-Jun-2025 21:01:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/bienetre/public_html/etat/index.php on line 1995
+[09-Jun-2025 21:02:01 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1588
+[09-Jun-2025 21:02:01 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1590
+[09-Jun-2025 21:02:02 UTC] PHP Notice:  Undefined variable: month_total in /home/bienetre/public_html/etat/index.php on line 1588
+[09-Jun-2025 21:02:02 UTC] PHP Notice:  Undefined variable: discount_percent in /home/bienetre/public_html/etat/index.php on line 1590
+[09-Jun-2025 21:12:48 UTC] PHP Warning:  require_once(../app/Config/App.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat/index.php on line 11
+[09-Jun-2025 21:12:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../app/Config/App.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat/index.php on line 11
+[09-Jun-2025 21:33:39 UTC] PHP Warning:  require_once(../app/Config/App.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat/index.php on line 11
+[09-Jun-2025 21:33:39 UTC] PHP Fatal error:  require_once(): Failed opening required '../app/Config/App.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat/index.php on line 11
+[09-Jun-2025 21:33:42 UTC] PHP Warning:  require_once(../app/Config/App.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat/index.php on line 11
+[09-Jun-2025 21:33:42 UTC] PHP Fatal error:  require_once(): Failed opening required '../app/Config/App.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat/index.php on line 11
