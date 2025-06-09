@@ -1,0 +1,34 @@
+# ===========================================
+# BIENETRE PHARMA CONFIGURATION
+# ===========================================
+
+# Database Configuration
+DB_HOST=localhost
+DB_NAME=bienetre_pharma
+DB_USER=bienetre_user
+DB_PASS=N3*WsMh),,8&gI=A
+
+# Application Configuration
+APP_NAME="Bienetre Pharma"
+APP_ENV=development
+DEBUG=true
+TIMEZONE=Africa/Algiers
+
+# Security Configuration
+APP_KEY=bb0f6757c45cad2e0d12c88608943469a0f7ab1d0e3978d8fbf4ea57cc67b78d
+SESSION_LIFETIME=7200
+CSRF_TOKEN_LIFETIME=3600
+MAX_LOGIN_ATTEMPTS=5
+LOCKOUT_DURATION=900
+
+# Pagination
+ITEMS_PER_PAGE=12
+MONTHS_PER_PAGE=12
+
+# File Upload
+MAX_FILE_SIZE=5242880
+ALLOWED_EXTENSIONS=jpg,jpeg,png,gif,webp,pdf
+
+# Logging
+LOG_LEVEL=error
+LOG_FILE=storage/logs/app.log
