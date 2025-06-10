@@ -7,7 +7,7 @@
     <meta name="description" content="<?= isset($description) ? htmlspecialchars($description) : 'Système de gestion pour Bienetre Pharma' ?>">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="<?= asset_url('/assets/images/favicon.ico') ?>">
     
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -18,7 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="stylesheet" href="<?= asset_url('/assets/css/app.css') ?>">
     
     <!-- CSRF Token -->
     <meta name="csrf-token" content="<?= $csrf_token ?? '' ?>">
@@ -40,7 +40,7 @@
     <!-- Sidebar Navigation -->
     <nav class="sidebar" id="sidebar">
         <div class="sidebar-header">
-            <img src="/assets/images/logo_bienetre.webp" alt="Bienetre Pharma" class="sidebar-logo">
+            <img src="<?= asset_url('/assets/images/logo_bienetre.svg') ?>" alt="Bienetre Pharma" class="sidebar-logo">
             <div class="sidebar-title">
                 <h1><?= $_ENV['APP_NAME'] ?? 'Bienetre Pharma' ?></h1>
                 <small>Gestion Commerciale</small>
@@ -48,12 +48,12 @@
         </div>
         
         <div class="sidebar-menu">
-            <a href="/dashboard" class="menu-item <?= ($currentRoute ?? '') === 'dashboard' ? 'active' : '' ?>">
+            <a href="<?= route_url('dashboard') ?>" class="menu-item <?= ($currentRoute ?? '') === 'dashboard' ? 'active' : '' ?>">
                 <i class="fas fa-chart-line"></i>
                 <span>Tableau de Bord</span>
             </a>
             
-            <a href="/clients" class="menu-item <?= strpos($currentRoute ?? '', 'clients') === 0 ? 'active' : '' ?>">
+            <a href="<?= route_url('clients') ?>" class="menu-item <?= strpos($currentRoute ?? '', 'clients') === 0 ? 'active' : '' ?>">
                 <i class="fas fa-users"></i>
                 <span>Gestion Clients</span>
             </a>
@@ -63,11 +63,11 @@
                     <div class="menu-section-title">
                         <i class="fas fa-user"></i> <?= htmlspecialchars($currentClient['name']) ?>
                     </div>
-                    <a href="/clients/<?= $currentClient['id'] ?>" class="menu-item sub-item">
+                    <a href="<?= route_url('clients/' . $currentClient['id']) ?>" class="menu-item sub-item">
                         <i class="fas fa-info-circle"></i>
                         <span>Détails Client</span>
                     </a>
-                    <a href="/clients/<?= $currentClient['id'] ?>/months" class="menu-item sub-item">
+                    <a href="<?= route_url('clients/' . $currentClient['id'] . '/months') ?>" class="menu-item sub-item">
                         <i class="fas fa-calendar-alt"></i>
                         <span>Mois d'Activité</span>
                     </a>
@@ -79,7 +79,7 @@
                     <div class="menu-section-title">
                         <i class="fas fa-calendar"></i> <?= $currentMonth ?>
                     </div>
-                    <a href="/clients/<?= $currentClient['id'] ?>/months/<?= $currentMonth ?>" class="menu-item sub-item active">
+                    <a href="<?= route_url('clients/' . $currentClient['id'] . '/months/' . $currentMonth) ?>" class="menu-item sub-item active">
                         <i class="fas fa-file-invoice-dollar"></i>
                         <span>Factures</span>
                     </a>
@@ -124,12 +124,12 @@
     <div id="modalsContainer"></div>
 
     <!-- Main JavaScript -->
-    <script src="/assets/js/app.js"></script>
+    <script src="<?= asset_url('/assets/js/app.js') ?>"></script>
     
     <!-- Page-specific scripts -->
     <?php if (isset($scripts)): ?>
         <?php foreach ($scripts as $script): ?>
-            <script src="<?= $script ?>"></script>
+            <script src="<?= strpos($script, 'http') === 0 ? $script : asset_url($script) ?>"></script>
         <?php endforeach; ?>
     <?php endif; ?>
     

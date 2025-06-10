@@ -1,0 +1,247 @@
+<?php
+/**
+ * Authentication Middleware
+ * Handles user authentication and authorization
+ */
+class AuthMiddleware {
+    
+    /**
+     * Check if user is authenticated
+     */
+    public static function authenticate() {
+        Session::start();
+        
+        $user = Session::getUser();
+        if (!$user) {
+            return false;
+        }
+        
+        // Validate session fingerprint
+        if (!Session::validateFingerprint()) {
+            Session::logout();
+            return false;
+        }
+        
+        // Check session timeout
+        if (!Session::checkTimeout()) {
+            return false;
+        }
+        
+        // Validate session in database
+        if (!self::validateDatabaseSession()) {
+            Session::logout();
+            return false;
+        }
+        
+        return true;
+    }
+    
+    /**
+     * Require authentication for protected routes
+     */
+    public static function requireAuth() {
+        if (!self::authenticate()) {
+            self::redirectToLogin();
+        }
+    }
+    
+    /**
+     * Check if user has specific permission
+     */
+    public static function hasPermission($permission) {
+        if (!self::authenticate()) {
+            return false;
+        }
+        
+        $user = Session::getUser();
+        
+        // Admin has all permissions
+        if ($user['role'] === 'admin') {
+            return true;
+        }
+        
+        // Add role-based permission logic here
+        // For now, authenticated users have basic permissions
+        $allowedPermissions = ['view_clients', 'view_transactions', 'view_dashboard'];
+        
+        return in_array($permission, $allowedPermissions);
+    }
+    
+    /**
+     * Require specific permission
+     */
+    public static function requirePermission($permission) {
+        if (!self::hasPermission($permission)) {
+            http_response_code(403);
+            include dirname(__DIR__) . '/Views/errors/403.php';
+            exit;
+        }
+    }
+    
+    /**
+     * Redirect to login page
+     */
+    private static function redirectToLogin() {
+        $loginUrl = '/login';
+        $currentUrl = $_SERVER['REQUEST_URI'] ?? '/';
+        
+        // Don't redirect if already on login page
+        if ($currentUrl !== $loginUrl) {
+            Session::set('redirect_after_login', $currentUrl);
+        }
+        
+        header("Location: {$loginUrl}");
+        exit;
+    }
+    
+    /**
+     * Get current user information
+     */
+    public static function getCurrentUser() {
+        if (!self::authenticate()) {
+            return null;
+        }
+        
+        return Session::getUser();
+    }
+    
+    /**
+     * Log user activity
+     */
+    public static function logActivity($action, $details = []) {
+        $user = Session::getUser();
+        if (!$user) {
+            return;
+        }
+        
+        $logFile = dirname(dirname(dirname(__FILE__))) . '/storage/logs/user_activity.log';
+        $logDir = dirname($logFile);
+        
+        if (!is_dir($logDir)) {
+            mkdir($logDir, 0755, true);
+        }
+        
+        $timestamp = date('Y-m-d H:i:s');
+        $ip = $_SERVER['REMOTE_ADDR'] ?? 'unknown';
+        $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? 'unknown';
+        $detailsJson = json_encode($details);
+        
+        $logMessage = "[{$timestamp}] USER: {$user['full_name']} ({$user['id']}) - ACTION: {$action} - IP: {$ip} - Details: {$detailsJson}" . PHP_EOL;
+        file_put_contents($logFile, $logMessage, FILE_APPEND | LOCK_EX);
+    }
+    
+    /**
+     * Check rate limiting for user actions
+     */
+    public static function checkRateLimit($action, $maxAttempts = 10, $timeWindow = 3600) {
+        $user = Session::getUser();
+        if (!$user) {
+            // Use IP-based rate limiting for non-authenticated users
+            return Security::checkRateLimit($action, $maxAttempts, $timeWindow);
+        }
+        
+        $key = "rate_limit_{$action}_{$user['id']}";
+        
+        if (!isset($_SESSION[$key])) {
+            $_SESSION[$key] = [
+                'count' => 0,
+                'first_attempt' => time()
+            ];
+        }
+        
+        $data = $_SESSION[$key];
+        $now = time();
+        
+        // Reset if time window has passed
+        if (($now - $data['first_attempt']) > $timeWindow) {
+            $_SESSION[$key] = [
+                'count' => 1,
+                'first_attempt' => $now
+            ];
+            return true;
+        }
+        
+        // Check if limit exceeded
+        if ($data['count'] >= $maxAttempts) {
+            return false;
+        }
+        
+        // Increment counter
+        $_SESSION[$key]['count']++;
+        return true;
+    }
+    
+    /**
+     * Validate session in database
+     */
+    private static function validateDatabaseSession() {
+        try {
+            $db = Database::getInstance();
+            $sessionId = session_id();
+            
+            $stmt = $db->prepare("
+                SELECT us.*, u.is_active 
+                FROM user_sessions us
+                JOIN users u ON us.user_id = u.id
+                WHERE us.id = ? AND us.expires_at > NOW() AND u.is_active = 1
+            ");
+            $stmt->execute([$sessionId]);
+            $session = $stmt->fetch(PDO::FETCH_ASSOC);
+            
+            if (!$session) {
+                return false;
+            }
+            
+            // Update session expiry
+            $newExpiry = date('Y-m-d H:i:s', time() + (int)($_ENV['SESSION_LIFETIME'] ?? 7200));
+            $stmt = $db->prepare("UPDATE user_sessions SET expires_at = ? WHERE id = ?");
+            $stmt->execute([$newExpiry, $sessionId]);
+            
+            return true;
+            
+        } catch (Exception $e) {
+            return false;
+        }
+    }
+    
+    /**
+     * Clean expired sessions
+     */
+    public static function cleanExpiredSessions() {
+        try {
+            $db = Database::getInstance();
+            $stmt = $db->prepare("DELETE FROM user_sessions WHERE expires_at < NOW()");
+            $stmt->execute();
+        } catch (Exception $e) {
+            // Silently fail - this is cleanup
+        }
+    }
+    
+    /**
+     * Get user role
+     */
+    public static function getUserRole() {
+        $user = self::getCurrentUser();
+        return $user ? $user['role'] : null;
+    }
+    
+    /**
+     * Check if user is admin
+     */
+    public static function isAdmin() {
+        return self::getUserRole() === 'admin';
+    }
+    
+    /**
+     * Require admin role
+     */
+    public static function requireAdmin() {
+        if (!self::isAdmin()) {
+            http_response_code(403);
+            include dirname(__DIR__) . '/Views/errors/403.php';
+            exit;
+        }
+    }
+    
+    
+}

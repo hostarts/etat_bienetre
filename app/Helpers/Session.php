@@ -1,7 +1,7 @@
 <?php
 /**
  * Session Management Helper
- * Provides secure session handling functionality
+ * Provides secure session handling functionality with authentication support
  */
 class Session {
     
@@ -135,6 +135,10 @@ class Session {
         return [];
     }
     
+    // ==========================================
+    // AUTHENTICATION METHODS - NEWLY ADDED
+    // ==========================================
+    
     /**
      * Store user data in session
      */
@@ -154,7 +158,7 @@ class Session {
      * Check if user is logged in
      */
     public static function isLoggedIn() {
-        return self::has('user');
+        return self::has('user') && self::get('user') !== null;
     }
     
     /**
@@ -205,5 +209,35 @@ class Session {
         
         self::set('last_activity', time());
         return true;
+    }
+    
+    /**
+     * Get user ID from session
+     */
+    public static function getUserId() {
+        $user = self::getUser();
+        return $user ? $user['id'] : null;
+    }
+    
+    /**
+     * Get user role from session
+     */
+    public static function getUserRole() {
+        $user = self::getUser();
+        return $user ? $user['role'] : null;
+    }
+    
+    /**
+     * Check if current user has specific role
+     */
+    public static function hasRole($role) {
+        return self::getUserRole() === $role;
+    }
+    
+    /**
+     * Check if current user is admin
+     */
+    public static function isAdmin() {
+        return self::hasRole('admin');
     }
 }

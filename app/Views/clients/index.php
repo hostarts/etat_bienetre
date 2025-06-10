@@ -29,10 +29,10 @@
                 <div class="client-header">
                     <h3><?= htmlspecialchars($client['name']) ?></h3>
                     <div class="client-actions">
-                        <a href="/clients/<?= $client['id'] ?>" class="btn btn-sm btn-outline-primary" title="Voir détails">
+                        <a href="<?= route_url('clients/' . $client['id']) ?>" class="btn btn-sm btn-outline-primary" title="Voir détails">
                             <i class="fas fa-eye"></i>
                         </a>
-                        <a href="/clients/<?= $client['id'] ?>/months" class="btn btn-sm btn-primary" title="Voir mois">
+                        <a href="<?= route_url('clients/' . $client['id'] . '/months') ?>" class="btn btn-sm btn-primary" title="Voir mois">
                             <i class="fas fa-calendar-alt"></i>
                         </a>
                     </div>
@@ -66,7 +66,7 @@
     <!-- Pagination -->
     <?php if (isset($pagination)): ?>
         <?php 
-        $baseUrl = '/clients';
+        $baseUrl = route_url('clients');
         include APP_PATH . '/Views/shared/pagination.php'; 
         ?>
     <?php endif; ?>
@@ -95,7 +95,7 @@
                 <i class="fas fa-times"></i>
             </button>
         </div>
-        <form method="POST" action="/clients" class="client-form">
+        <form method="POST" action="<?= route_url('clients') ?>" class="client-form">
             <input type="hidden" name="csrf_token" value="<?= $csrf_token ?>">
             
             <div class="form-group">

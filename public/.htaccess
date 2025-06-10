@@ -1,40 +1,8 @@
-# ===========================================
-# BIENETRE PHARMA - LITESPEED OPTIMIZED
-# Place this in /public/.htaccess
-# ===========================================
-
 RewriteEngine On
 
-# Set the correct base path for your subdirectory
-RewriteBase /etat/public/
-
-# Main routing rule - send all requests to index.php
+# Route to index.php
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+RewriteRule ^(.*)$ index.php [QSA,L]
 
-# Security - Block sensitive files
-<Files ".env">
-    Require all denied
-</Files>
-
-<Files "*.log">
-    Require all denied
-</Files>
-
-<FilesMatch "\.(sql|md|json|lock)$">
-    Require all denied
-</FilesMatch>
-
-# Basic security headers (LiteSpeed compatible)
-<IfModule mod_headers.c>
-    Header always set X-Content-Type-Options nosniff
-    Header always set X-Frame-Options DENY
-    Header always set X-XSS-Protection "1; mode=block"
-</IfModule>
-
-# Disable directory browsing
 Options -Indexes
-
-# Enable FollowSymLinks
-Options +FollowSymLinks

@@ -1,0 +1,2068 @@
+[09-Jun-2025 23:45:25 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 225
+[09-Jun-2025 23:45:41 UTC] PHP Notice:  Undefined variable: clients in /home/bienetre/public_html/etat/public/index.php on line 313
+[09-Jun-2025 23:45:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bienetre/public_html/etat/public/index.php on line 313
+[10-Jun-2025 00:13:33 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:13:33 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:13:34 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:13:34 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:13:37 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:14:49 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:14:49 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:16:43 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:16:43 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:16:44 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:16:44 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:39 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:39 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:39 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:46 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:46 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:47 UTC] PHP Notice:  Undefined variable: clients in /home/bienetre/public_html/etat/public/index.php on line 316
+[10-Jun-2025 00:17:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bienetre/public_html/etat/public/index.php on line 316
+[10-Jun-2025 00:17:50 UTC] PHP Notice:  Undefined variable: monthlyRevenue in /home/bienetre/public_html/etat/public/index.php on line 228
+[10-Jun-2025 00:17:51 UTC] PHP Notice:  Undefined variable: clients in /home/bienetre/public_html/etat/public/index.php on line 316
+[10-Jun-2025 00:17:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/bienetre/public_html/etat/public/index.php on line 316
+[10-Jun-2025 00:23:02 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:02 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:03 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:04 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:04 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:04 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:05 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:05 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:05 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:05 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:06 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 00:23:06 UTC] PHP Notice:  Undefined variable: content in /home/bienetre/public_html/etat/public/index.php on line 132
+[10-Jun-2025 01:35:37 Africa/Algiers] PHP Fatal error:  Cannot redeclare asset_url() (previously declared in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php:84) in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php on line 3
+[10-Jun-2025 00:42:06 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/debug_clients.php on line 10
+[10-Jun-2025 00:43:26 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/debug_clients.php on line 7
+[10-Jun-2025 01:23:03 UTC] PHP Warning:  Use of undefined constant APP_PATH - assumed 'APP_PATH' (this will throw an Error in a future version of PHP) in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:03 UTC] PHP Warning:  require_once(APP_PATH/Helpers/Session.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'APP_PATH/Helpers/Session.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:06 UTC] PHP Warning:  Use of undefined constant APP_PATH - assumed 'APP_PATH' (this will throw an Error in a future version of PHP) in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:06 UTC] PHP Warning:  require_once(APP_PATH/Helpers/Session.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'APP_PATH/Helpers/Session.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:07 UTC] PHP Warning:  Use of undefined constant APP_PATH - assumed 'APP_PATH' (this will throw an Error in a future version of PHP) in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:07 UTC] PHP Warning:  require_once(APP_PATH/Helpers/Session.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'APP_PATH/Helpers/Session.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:11 UTC] PHP Warning:  Use of undefined constant APP_PATH - assumed 'APP_PATH' (this will throw an Error in a future version of PHP) in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:11 UTC] PHP Warning:  require_once(APP_PATH/Helpers/Session.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'APP_PATH/Helpers/Session.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:12 UTC] PHP Warning:  Use of undefined constant APP_PATH - assumed 'APP_PATH' (this will throw an Error in a future version of PHP) in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:12 UTC] PHP Warning:  require_once(APP_PATH/Helpers/Session.php): failed to open stream: No such file or directory in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 01:23:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'APP_PATH/Helpers/Session.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php on line 7
+[10-Jun-2025 02:24:30 Africa/Algiers] SESSION: Session started with ID: 32b801b4e0d79bf2c6fe7117c4bcacf6
+[10-Jun-2025 02:24:30 Africa/Algiers] SESSION: Session ID regenerated (periodic)
+[10-Jun-2025 02:24:30 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:30 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:30 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:30 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:30 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:30 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:30 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:30 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:24:32 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:32 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:32 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:32 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:32 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:32 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:32 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:32 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:32 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:24:33 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:33 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:33 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:33 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:33 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:33 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:33 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:33 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:33 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:24:38 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:38 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:38 Africa/Algiers] Method: POST
+[10-Jun-2025 02:24:38 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:38 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:38 Africa/Algiers] POST Data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => clients_route
+    [name] => Test Client Route
+    [address] => Test Address Route
+    [phone] => 0555123002
+    [email] => test2@example.com
+)
+
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => clients_route
+    [name] => Test Client Route
+    [address] => Test Address Route
+    [phone] => 0555123002
+    [email] => test2@example.com
+)
+
+[10-Jun-2025 02:24:38 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 38
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 02:24:42 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:42 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:42 Africa/Algiers] Method: POST
+[10-Jun-2025 02:24:42 Africa/Algiers] URI: etat/public/index.php
+[10-Jun-2025 02:24:42 Africa/Algiers] Original Request URI: /etat/public/index.php
+[10-Jun-2025 02:24:42 Africa/Algiers] POST Data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => direct_index
+    [name] => Test Client Direct
+    [address] => Test Address Direct
+    [phone] => 0555123001
+    [email] => test1@example.com
+)
+
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => direct_index
+    [name] => Test Client Direct
+    [address] => Test Address Direct
+    [phone] => 0555123001
+    [email] => test1@example.com
+)
+
+[10-Jun-2025 02:24:42 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 38
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+    [flash_messages] => Array
+        (
+            [type] => error
+            [message] => Token de sécurité invalide. Veuillez réessayer.
+            [timestamp] => 1749518678
+        )
+
+)
+
+[10-Jun-2025 02:24:46 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:46 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:46 Africa/Algiers] Method: POST
+[10-Jun-2025 02:24:46 Africa/Algiers] URI: etat/public
+[10-Jun-2025 02:24:46 Africa/Algiers] Original Request URI: /etat/public/
+[10-Jun-2025 02:24:46 Africa/Algiers] POST Data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => full_path
+    [uri] => clients
+    [name] => Test Client Full
+    [address] => Test Address Full
+    [phone] => 0555123003
+    [email] => test3@example.com
+)
+
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => full_path
+    [uri] => clients
+    [name] => Test Client Full
+    [address] => Test Address Full
+    [phone] => 0555123003
+    [email] => test3@example.com
+)
+
+[10-Jun-2025 02:24:46 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 38
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+    [flash_messages] => Array
+        (
+            [type] => error
+            [message] => Token de sécurité invalide. Veuillez réessayer.
+            [timestamp] => 1749518682
+        )
+
+)
+
+[10-Jun-2025 02:24:48 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:48 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:48 Africa/Algiers] Method: POST
+[10-Jun-2025 02:24:48 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:48 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:48 Africa/Algiers] POST Data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => ajax_test
+    [name] => Test Client AJAX
+    [address] => Test Address AJAX
+    [phone] => 0555123004
+    [email] => test4@example.com
+)
+
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => ajax_test
+    [name] => Test Client AJAX
+    [address] => Test Address AJAX
+    [phone] => 0555123004
+    [email] => test4@example.com
+)
+
+[10-Jun-2025 02:24:48 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 38
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+    [flash_messages] => Array
+        (
+            [type] => error
+            [message] => Token de sécurité invalide. Veuillez réessayer.
+            [timestamp] => 1749518686
+        )
+
+)
+
+[10-Jun-2025 02:24:55 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:55 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:55 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:55 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:55 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:55 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:55 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:55 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:55 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - Flash message: error - Token de sécurité invalide. Veuillez réessayer.
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:55 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:24:56 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:56 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:56 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:56 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:56 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:56 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:56 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:56 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:24:56 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:24:56 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:24:56 Africa/Algiers] Method: GET
+[10-Jun-2025 02:24:56 Africa/Algiers] URI: clients
+[10-Jun-2025 02:24:56 Africa/Algiers] Original Request URI: /clients
+[10-Jun-2025 02:24:56 Africa/Algiers] Routing to clients - Method: GET
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:24:56 Africa/Algiers] Calling ClientController::index()
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:24:56 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:24:56 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:25:01 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:25:01 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:25:01 Africa/Algiers] Method: GET
+[10-Jun-2025 02:25:01 Africa/Algiers] URI: public
+[10-Jun-2025 02:25:01 Africa/Algiers] Original Request URI: /public/
+[10-Jun-2025 02:25:01 Africa/Algiers] Dynamic routing - segments: public
+[10-Jun-2025 02:25:01 Africa/Algiers] 404 - Route not found: public
+[10-Jun-2025 02:25:02 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:25:02 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:25:02 Africa/Algiers] Method: GET
+[10-Jun-2025 02:25:02 Africa/Algiers] URI: public
+[10-Jun-2025 02:25:02 Africa/Algiers] Original Request URI: /public/
+[10-Jun-2025 02:25:02 Africa/Algiers] Dynamic routing - segments: public
+[10-Jun-2025 02:25:02 Africa/Algiers] 404 - Route not found: public
+[10-Jun-2025 02:25:02 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:25:02 Africa/Algiers] === REQUEST DEBUG ===
+[10-Jun-2025 02:25:02 Africa/Algiers] Method: GET
+[10-Jun-2025 02:25:02 Africa/Algiers] URI: public
+[10-Jun-2025 02:25:02 Africa/Algiers] Original Request URI: /public/
+[10-Jun-2025 02:25:02 Africa/Algiers] Dynamic routing - segments: public
+[10-Jun-2025 02:25:02 Africa/Algiers] 404 - Route not found: public
+[10-Jun-2025 02:26:36 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:36 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:36 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:38 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:26:38 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Content captured, length: 9335
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:26:38 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:26:38 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:39 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::show() - START with clientId: 7
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::show() - Client found: user1
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::getClientStats() - START for clientId: 7
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:26:39 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Content captured, length: 4020
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:26:39 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:26:40 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:42 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::showMonths() - START with clientId: 7
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::showMonths() - ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'SELECT'
+[10-Jun-2025 02:26:42 Africa/Algiers] SESSION: Flash message set: error - Erreur lors du chargement des mois.
+[10-Jun-2025 02:26:42 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::show() - START with clientId: 7
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::show() - Client found: user1
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::getClientStats() - START for clientId: 7
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:26:42 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:42 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Content captured, length: 4020
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:26:42 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:26:42 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:44 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:26:44 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Content captured, length: 9335
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:26:44 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:26:45 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:53 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:53 Africa/Algiers] === ClientController::store() - START ===
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - Request method: POST
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - POST data: Array
+(
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [name] => test2
+    [address] => test2
+    [phone] => 123123123
+    [email] => 
+)
+
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - Session ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 44
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - CSRF Validation:
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Submitted token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Tokens match: YES
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - CSRF token validation successful
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - Form data extracted:
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Name: 'test2'
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Address: 'test2'
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Phone: '123123123'
+[10-Jun-2025 02:26:53 Africa/Algiers]   - Email: ''
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::store() - Validation errors: Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:26:53 Africa/Algiers] SESSION: Flash message set: error - Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:26:53 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:26:53 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:26:53 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - Flash message: error - Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Content captured, length: 9335
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:26:53 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:26:53 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:05 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:05 Africa/Algiers] === ClientController::store() - START ===
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - Request method: POST
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - POST data: Array
+(
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [name] => 123132
+    [address] => 123132123
+    [phone] => 055555555
+    [email] => 
+)
+
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - Session ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 44
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - CSRF Validation:
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Submitted token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Tokens match: YES
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - CSRF token validation successful
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - Form data extracted:
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Name: '123132'
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Address: '123132123'
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Phone: '055555555'
+[10-Jun-2025 02:27:05 Africa/Algiers]   - Email: ''
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::store() - Validation errors: Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:27:05 Africa/Algiers] SESSION: Flash message set: error - Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:27:05 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - Total clients: 1
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - Fetched 1 clients
+[10-Jun-2025 02:27:05 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:05 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - Flash message: error - Le numéro de téléphone n'est pas valide (format algérien attendu).
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Content captured, length: 9335
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:27:05 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:27:05 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:15 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:15 Africa/Algiers] === ClientController::store() - START ===
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Request method: POST
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - POST data: Array
+(
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [name] => 12312313
+    [address] => 123123123
+    [phone] => 0770717101
+    [email] => 
+)
+
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Session ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 44
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - CSRF Validation:
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Submitted token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Tokens match: YES
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Verifying token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - CSRF token validation successful
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Form data extracted:
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Name: '12312313'
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Address: '123123123'
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Phone: '0770717101'
+[10-Jun-2025 02:27:15 Africa/Algiers]   - Email: ''
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Validation passed
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Checking for duplicate client name
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - No duplicate found, proceeding with insertion
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Executing insert with data: Array
+(
+    [0] => 12312313
+    [1] => 123123123
+    [2] => 0770717101
+    [3] => 
+)
+
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - SUCCESS: Client created with ID: 8
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Verification: Client successfully inserted: Array
+(
+    [id] => 8
+    [name] => 12312313
+    [address] => 123123123
+    [phone] => 0770717101
+    [email] => 
+    [created_at] => 2025-06-10 02:27:15
+    [updated_at] => 2025-06-10 02:27:15
+    [deleted_at] => 
+)
+
+[10-Jun-2025 02:27:15 Africa/Algiers] SESSION: Flash message set: success - Client '12312313' ajouté avec succès.
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::store() - Redirecting to /clients
+[10-Jun-2025 02:27:15 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 02:27:15 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - CSRF token generated: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:15 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - Flash message: success - Client '12312313' ajouté avec succès.
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:27:15 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:27:15 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:17 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:27:17 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:27:17 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:27:17 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:19 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::showMonths() - ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'SELECT'
+[10-Jun-2025 02:27:19 Africa/Algiers] SESSION: Flash message set: error - Erreur lors du chargement des mois.
+[10-Jun-2025 02:27:19 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:27:19 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:27:19 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:27:19 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:27:19 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:20 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:20 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:29:20 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:29:20 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:21 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::showMonths() - ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'SELECT'
+[10-Jun-2025 02:29:21 Africa/Algiers] SESSION: Flash message set: error - Erreur lors du chargement des mois.
+[10-Jun-2025 02:29:21 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:21 Africa/Algiers] CSRF: Using existing token: b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+[10-Jun-2025 02:29:21 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:29:21 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:29:21 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:27 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => full_path
+    [uri] => clients
+    [name] => Test Client Full
+    [address] => Test Address Full
+    [phone] => 0555123003
+    [email] => test3@example.com
+)
+
+[10-Jun-2025 02:29:27 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518670
+    [rate_limit_general_1] => Array
+        (
+            [count] => 44
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+)
+
+[10-Jun-2025 02:29:39 Africa/Algiers] SESSION: Session started with ID: 8a363eda403c6b3a3d53bc6c1c6105a0
+[10-Jun-2025 02:29:39 Africa/Algiers] SESSION: Session ID regenerated (periodic)
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: Verifying token: 'debug_token'
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: Session token: 'b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2'
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: Token time: 1749515379
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: Token validation result: INVALID
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF: Token validation failed, handling failure
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF FAILURE: Token verification failed
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF FAILURE: POST data: Array
+(
+    [csrf_token] => debug_token
+    [debug_form] => direct_index
+    [name] => Test Client Direct
+    [address] => Test Address Direct
+    [phone] => 0555123001
+    [email] => test1@example.com
+)
+
+[10-Jun-2025 02:29:39 Africa/Algiers] CSRF FAILURE: Session data: Array
+(
+    [last_regeneration] => 1749518979
+    [rate_limit_general_1] => Array
+        (
+            [count] => 44
+            [first_attempt] => 1749515379
+        )
+
+    [csrf_token] => b9cca9f025f5d7db49f26d4eca47c082c68f62faeffcdb338b9409ceef2564e2
+    [csrf_token_time] => 1749515379
+    [flash_bag] => Array
+        (
+            [error] => Array
+                (
+                    [phone] => Array
+                        (
+                            [0] => Le champ phone doit être un numéro de téléphone valide.
+                        )
+
+                )
+
+        )
+
+    [flash_messages] => Array
+        (
+            [type] => error
+            [message] => Token de sécurité invalide. Veuillez réessayer.
+            [timestamp] => 1749518967
+        )
+
+)
+
+[10-Jun-2025 02:29:51 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::showMonths() - ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'SELECT'
+[10-Jun-2025 02:29:51 Africa/Algiers] SESSION: Flash message set: error - Erreur lors du chargement des mois.
+[10-Jun-2025 02:29:51 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:29:51 Africa/Algiers] CSRF: Generated new token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:29:51 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:29:51 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:29:51 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:33:37 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 0
+    [total_returns] => 0
+    [invoice_count] => 0
+    [return_count] => 0
+    [net_total] => 0
+)
+
+[10-Jun-2025 02:33:37 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Content captured, length: 4030
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:33:37 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:33:38 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:33:38 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::showMonths() - Found 0 months with transactions
+[10-Jun-2025 02:33:38 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:33:38 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:33:38 Africa/Algiers] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php on line 10
+[10-Jun-2025 02:34:38 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::showMonths() - Found 0 months with transactions
+[10-Jun-2025 02:34:38 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Content captured, length: 3360
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:34:38 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:34:38 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:34:40 Africa/Algiers] SESSION: Session started with ID: a397fc269fd1671c8e0046d5a66f0b5a
+[10-Jun-2025 02:34:40 Africa/Algiers] SESSION: Session ID regenerated (periodic)
+[10-Jun-2025 02:34:40 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:34:40 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:34:40 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:01 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Verifying token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Session token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Token time: 1749518991
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:35:01 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:01 Africa/Algiers] SESSION: Flash message set: success - Facture ajoutée avec succès.
+[10-Jun-2025 02:35:01 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:01 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:01 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:35:01 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:35:01 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:12 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Verifying token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Session token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Token time: 1749518991
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:35:12 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:12 Africa/Algiers] SESSION: Flash message set: success - Remise de 3% appliquée avec succès.
+[10-Jun-2025 02:35:12 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:12 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:12 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:35:12 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:35:12 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:45 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Verifying token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Session token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Token time: 1749518991
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:35:45 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:45 Africa/Algiers] SESSION: Flash message set: success - Retour ajouté avec succès.
+[10-Jun-2025 02:35:45 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:35:45 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:35:45 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:35:45 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:35:45 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:32 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Verifying token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Session token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Token time: 1749518991
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:36:32 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:32 Africa/Algiers] SESSION: Flash message set: success - Facture ajoutée avec succès.
+[10-Jun-2025 02:36:32 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:32 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:32 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:36:32 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:36:32 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:37 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 02:36:37 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:36:37 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:36:37 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:44 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:44 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:44 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:36:44 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:59 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Verifying token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Session token: 'c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63'
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Token time: 1749518991
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 02:36:59 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:59 Africa/Algiers] SESSION: Flash message set: success - Remise de 3% appliquée avec succès.
+[10-Jun-2025 02:36:59 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:36:59 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:36:59 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:36:59 Africa/Algiers] SESSION: Flash message retrieved and cleared
+[10-Jun-2025 02:36:59 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:06 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:06 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:06 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:07 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:09 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:09 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:09 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:09 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:10 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 02:37:10 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:10 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:37:10 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:17 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 02:37:17 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Content captured, length: 4046
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:17 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:37:18 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:27 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:27 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:27 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:46 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 02:37:46 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - CSRF token generated: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:46 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:37:47 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:49 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::showMonths() - START with clientId: 7
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::showMonths() - Found 0 months with transactions
+[10-Jun-2025 02:37:49 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Content captured, length: 3357
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:49 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:37:49 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:52 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 02:37:52 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:52 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:37:52 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:54 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:54 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:54 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:54 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:57 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 02:37:57 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:57 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:37:57 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:58 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 02:37:58 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Content captured, length: 4046
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:37:58 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 02:37:59 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:00 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 02:38:00 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:38:00 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 02:38:00 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:05 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:05 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:38:05 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:05 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:13 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:13 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:13 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:14 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 02:38:14 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - CSRF token generated: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 02:38:14 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 02:38:14 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:15 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 02:38:15 Africa/Algiers] CSRF: Using existing token: c0b9a1d7c9596804fcbf9c3ca38889420dd32ae335fa80b8e23dcc0326b84f63
+[10-Jun-2025 02:38:15 Africa/Algiers] SESSION: Session started with ID: c5f74b4158cf4ece98e62e671e8e3225
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session started with ID: 49a5ba891a08e0a668f8ca5cd3ca98f1
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:32 Africa/Algiers] CSRF: Generated new token: 777f6c561913c263fd56b145351cc913f78f341a50c3c0a7bc1456047a44e9f9
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session started with ID: a9ceabc66c9ecaee4baa6226691756dd
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session started with ID: a9ceabc66c9ecaee4baa6226691756dd
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session started with ID: 62f59548d7ab3b8bea0da77949c63287
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:32 Africa/Algiers] CSRF: Generated new token: 4eb88581417518786ae876ce2b59412eff03f7824812e0d7d9fbf0f8c8a416a7
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session started with ID: 31bbd15aa476a866fcbacd4cede75215
+[10-Jun-2025 03:26:32 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:33 Africa/Algiers] SESSION: Session started with ID: 6d7552bf2485e998853984b091244cb1
+[10-Jun-2025 03:26:33 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: 95caf1ad8080165fee5a7690e1154046
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:46 Africa/Algiers] CSRF: Generated new token: 3a3672e14fdd92258207343e583c618a99492151362bf94d60d4b38aa891608b
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: 3dc180958d753146a22c5deda4dea859
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: 3dc180958d753146a22c5deda4dea859
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: 057b9fa811afcdb95d83031c8e391054
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:46 Africa/Algiers] CSRF: Generated new token: 4151c644270bc975b465f61457bacb9f0d4935afab9b6e43172c5dd3d6764613
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: 6e59e9b7ee0a513fda7342c4800aca76
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session started with ID: c86ba24adfbdc67e2de0d9a2dc1708b1
+[10-Jun-2025 03:26:46 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 04:04:32 Africa/Algiers] SESSION: Session started with ID: a0e047c41395bb89991ffd425ed7273e
+[10-Jun-2025 04:04:32 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 04:04:32 Africa/Algiers] CSRF: Generated new token: f41cc2cb1fad75a874c4d13a74e82325e9b5ab5cf56e604d731fb9ef7b5fe295
+[10-Jun-2025 04:04:32 Africa/Algiers] SESSION: Session started with ID: a46c837e39fef0842b4ff3c92eeaf181
+[10-Jun-2025 04:09:23 Africa/Algiers] SESSION: Session started with ID: 5dcf549e8b0deb27a33249b58e83d118
+[10-Jun-2025 04:09:23 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 04:09:23 Africa/Algiers] CSRF: Generated new token: 24029db13800088d9668ec8c3fa9abe6adede990355e65d78b947687b1c74fce
+[10-Jun-2025 04:10:41 Africa/Algiers] SESSION: Session started with ID: efee14b3fd29359f5d9e7f6bace46dc8
+[10-Jun-2025 04:10:41 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 04:10:41 Africa/Algiers] CSRF: Generated new token: 76d834c434c739bbc68e5a889af2c4ad3f4ab6a894e4582e5e13b86079a008b0
+[10-Jun-2025 11:33:45 Africa/Algiers] SESSION: Session started with ID: 39a6a6d5cff14c0dbb6d35be86346b50
+[10-Jun-2025 11:33:45 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 11:33:45 Africa/Algiers] CSRF: Generated new token: 839a035586b295a80f3473f6f57101461700ea8e172c6606798e8e0def84fe10
+[10-Jun-2025 11:33:45 Africa/Algiers] SESSION: Session started with ID: 832cd8550b1c8426df98adb44bff1a33
+[10-Jun-2025 11:33:49 Africa/Algiers] SESSION: Session started with ID: 8bccd20dfc2cf45a7adb6a604d8359a4
+[10-Jun-2025 11:33:49 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 11:33:49 Africa/Algiers] CSRF: Generated new token: 204aa6540af5816091e75e5e438d482f7906353d74e1e48e2c69618015f48040
+[10-Jun-2025 11:33:49 Africa/Algiers] SESSION: Session started with ID: fad3c465d4136b728d7299d7d4d53081
+[10-Jun-2025 11:34:58 Africa/Algiers] SESSION: Session started with ID: e91325343b3a0bfabfb52bc7a3273461
+[10-Jun-2025 11:34:58 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 11:34:58 Africa/Algiers] CSRF: Generated new token: 80e04b6256aeb4a3a86d3f16f4de1c3cc90978982d70f188844646d6a61fa933
+[10-Jun-2025 11:34:59 Africa/Algiers] SESSION: Session started with ID: 3917ec19c8731bd38aec2b20516c37c0
+[10-Jun-2025 11:35:52 Africa/Algiers] SESSION: Session started with ID: ca36811bbc27f4b51af677d75de0bd1a
+[10-Jun-2025 11:35:52 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 11:35:52 Africa/Algiers] CSRF: Generated new token: e4871a7f161fa6f55be53b9e1d25bb8ea90cfa82d93557667e7d6c579b177b87
+[10-Jun-2025 11:35:52 Africa/Algiers] SESSION: Session started with ID: c8ebc18f00b7c5dc3ac3619bc10fc4d3
+[10-Jun-2025 11:35:56 Africa/Algiers] SESSION: Session started with ID: 546c8dbee7e36a44d9dcc5ea97b1b64e
+[10-Jun-2025 11:35:56 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 11:35:56 Africa/Algiers] CSRF: Generated new token: abe5e119430b02306103f05e548eb598652a66eba902b77ecf4268314262ac9e
+[10-Jun-2025 11:35:56 Africa/Algiers] SESSION: Session started with ID: 0cbf064c9f891d581386397570094fa4
+[10-Jun-2025 12:41:21 Africa/Algiers] SESSION: Session started with ID: 31f8dfb01aab5b48805791ce007dd893
+[10-Jun-2025 12:41:21 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:41:21 Africa/Algiers] CSRF: Generated new token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:41:21 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 12:41:21 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:24 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::show() - START with clientId: 8
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::show() - Client found: 12312313
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::getClientStats() - START for clientId: 8
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::getClientStats() - Stats: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::show() - Stats calculated: Array
+(
+    [total_invoices] => 164364.34
+    [total_returns] => 3001.22
+    [invoice_count] => 2
+    [return_count] => 1
+    [net_total] => 161363.12
+)
+
+[10-Jun-2025 12:41:24 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - View: clients/show
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, stats, csrf_token, flash
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/show.php
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Content captured, length: 4046
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:41:24 Africa/Algiers] ClientController::show() - COMPLETED
+[10-Jun-2025 12:41:24 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:25 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::showMonths() - START with clientId: 8
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::showMonths() - Found 2 months with transactions
+[10-Jun-2025 12:41:25 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - View: clients/months
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, client, currentClient, months, csrf_token, flash
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/months.php
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Content captured, length: 6188
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:41:25 Africa/Algiers] ClientController::showMonths() - COMPLETED
+[10-Jun-2025 12:41:25 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:28 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:28 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:28 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:31 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:41:31 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:41:31 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 12:41:31 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:45:39 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:45:39 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:45:39 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:45:40 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:45:40 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:45:40 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:45:42 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:45:42 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:45:42 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:49:04 Africa/Algiers] SESSION: Session started with ID: 60d5240779523db04b5688d18719c0c4
+[10-Jun-2025 12:49:04 Africa/Algiers] SESSION: Session ID regenerated (periodic)
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:49:04 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - CSRF token generated: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:49:04 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 12:49:04 Africa/Algiers] SESSION: Session started with ID: 23636ba893bed07d804abdc13577b11e
+[10-Jun-2025 12:49:11 Africa/Algiers] SESSION: Session started with ID: b18eac3ef0004fddc55a8eae0508382a
+[10-Jun-2025 12:49:11 Africa/Algiers] SESSION: Session ID regenerated (first time)
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController: Database connection established
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - START
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - Pagination: page=1, perPage=12, offset=0
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - Total clients: 2
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - Fetched 2 clients
+[10-Jun-2025 12:49:11 Africa/Algiers] CSRF: Generated new token: 3e9f1ca4a4760b5ed40c2e54b2b6fb7ffe77d2afc208ba8867d9fcb7dc0a6d62
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - CSRF token generated: 3e9f1ca4a4760b5ed40c2e54b2b6fb7ffe77d2afc208ba8867d9fcb7dc0a6d62
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - Rendering view with 6 data items
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - START
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - View: clients/index
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Data keys: title, currentRoute, clients, pagination, csrf_token, flash
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Data extracted successfully
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Output buffering started
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - View file path: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/clients/index.php
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - View file exists, including...
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - View file included successfully
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Content captured, length: 10669
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Layout file: /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Views/layouts/app.php
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - Layout included successfully
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::render() - COMPLETED
+[10-Jun-2025 12:49:11 Africa/Algiers] ClientController::index() - COMPLETED
+[10-Jun-2025 12:49:11 Africa/Algiers] SESSION: Session started with ID: f5fa922de44625241d07d862ba9fa325
+[10-Jun-2025 12:52:07 Africa/Algiers] SESSION: Session started with ID: 23636ba893bed07d804abdc13577b11e
+[10-Jun-2025 12:52:07 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined method Session::getUser() in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php:14
+Stack trace:
+#0 /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php(135): AuthMiddleware::authenticate()
+#1 {main}
+  thrown in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 14
+[10-Jun-2025 12:54:34 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:54:34 Africa/Algiers] SESSION: Session started with ID: 23636ba893bed07d804abdc13577b11e
+[10-Jun-2025 12:54:34 Africa/Algiers] SESSION: Session ID regenerated (periodic)
+[10-Jun-2025 12:54:34 Africa/Algiers] PHP Fatal error:  Uncaught Error: Call to undefined method Session::getUser() in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php:14
+Stack trace:
+#0 /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php(254): AuthMiddleware::authenticate()
+#1 /home/bienetre/public_html/etat.bienetre-pharma.dz/public/index.php(85): require_once('/home/bienetre/...')
+#2 {main}
+  thrown in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 14
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:06 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:07 Africa/Algiers] PHP Notice:  Undefined variable: uri in /home/bienetre/public_html/etat.bienetre-pharma.dz/app/Middleware/AuthMiddleware.php on line 250
+[10-Jun-2025 12:56:19 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:56:19 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:58:14 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 12:59:05 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 12:59:06 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:59:06 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:59:15 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:06:22 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:06:30 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/login_debug.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/login_debug.php on line 40
+[10-Jun-2025 13:10:54 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:10:54 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:10:56 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:11:06 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:11:07 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:11:07 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:12:40 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:12:40 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:12:45 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:14:07 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:14:07 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:14:13 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:14:13 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:14:13 UTC] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:14:13 UTC] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 12:14:13 UTC] CSRF: Token time: 1749555681
+[10-Jun-2025 12:14:13 UTC] CSRF: Token validation result: VALID
+[10-Jun-2025 12:15:43 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:15:43 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:15:48 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:15:57 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:02 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:16:06 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:16:06 UTC] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:14 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:15 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:21 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:21 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:45 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:53 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:16:53 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:17:52 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:17:53 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: Verifying token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: Session token: '2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672'
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: Token time: 1749555681
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:17:56 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:17:57 Africa/Algiers] CSRF: Using existing token: 2d04c393b7008cda6671ba60fde989005d581e2462c68ce71ea5758bd10c9672
+[10-Jun-2025 12:20:06 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/debug_auth.php on line 245
+[10-Jun-2025 12:20:06 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/debug_auth.php on line 246
+[10-Jun-2025 12:20:06 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/bienetre/public_html/etat.bienetre-pharma.dz/public/debug_auth.php on line 247
+[10-Jun-2025 13:20:15 Africa/Algiers] CSRF: Generated new token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:20:16 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:24:11 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:23 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:24:24 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:33 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:24:34 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:24:35 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:40 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:24:42 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:26:15 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: POST request detected, validating token
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Verifying token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Session token: '2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232'
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Token time: 1749558015
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Token validation result: VALID
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Token validation successful
+[10-Jun-2025 13:26:17 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:26:34 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 12:33:07 UTC] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 12:33:11 UTC] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 12:33:11 UTC] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 12:33:11 UTC] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:33:22 Africa/Algiers] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 13:33:22 Africa/Algiers] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 13:33:22 Africa/Algiers] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
+[10-Jun-2025 13:33:22 Africa/Algiers] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 12:33:40 UTC] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 12:33:40 UTC] Failed to create database session: SQLSTATE[HY000]: General error: 1364 Field 'payload' doesn't have a default value
+[10-Jun-2025 12:33:40 UTC] CSRF: Using existing token: 2ff482273b71f652947bea4b7a0278ada9360ab0c16fdc1fb82b6d8b58081232
